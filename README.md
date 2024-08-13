@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @Logan-Walker-4587
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hey I'm Logan Walker
 
-<!---
-Logan-Walker-4587/Logan-Walker-4587 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+![images.jpg](https://eraser.imgix.net/workspaces/QNGmUpA5atkKL4VkSQxu/3I82ntcpOSfE3snqAji6W4EZdvQ2/1PiHcMYEn4FTm5jmq0KL2.jpg?ixlib=js-3.7.0 "images.jpg")
+
+## Welcome to my Github!
+
+
